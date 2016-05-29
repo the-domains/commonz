@@ -1,6 +1,6 @@
 name: commonz
 favicon: null
-layout_spectrum: 0.17164
+layout_spectrum: 0.60998
 typography_spectrum: 0
 title: 'creative commonz '
 cta:
@@ -22,8 +22,8 @@ color:
     - '#aca9a2'
     - '#000000'
     - '#332e2b'
-  brandStrength: 0.3125
-  lightness: 0.8125
-  saturation: 0.6875
-  rhythmicContrast: 0
+  brandStrength: 0.0625
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 0.5
 purpose: []
