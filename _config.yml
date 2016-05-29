@@ -1,14 +1,28 @@
-layout_spectrum: 0.2816189
-color:
-  saturation: 0.3794267
-  brandStrength: 0.7194315
-  lightness: 0.549747
-  rhythmicContrast: 0.2655987
-  brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-typography_spectrum: 0
 name: commonz
+favicon: null
+layout_spectrum: 0.17164
+typography_spectrum: 0
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ecedef'
+    - '#837f74'
+    - '#aca9a2'
+    - '#000000'
+    - '#332e2b'
+  brandStrength: 0.3125
+  lightness: 0.8125
+  saturation: 0.6875
+  rhythmicContrast: 0
+purpose: []
