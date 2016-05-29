@@ -1,0 +1,14 @@
+layout_spectrum: 0.2816189
+color:
+  saturation: 0.3794267
+  brandStrength: 0.7194315
+  lightness: 0.549747
+  rhythmicContrast: 0.2655987
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+typography_spectrum: 0
+name: commonz
